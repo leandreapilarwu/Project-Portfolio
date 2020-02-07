@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.well{
+    background: url(../pic/fck.png);
+    background-size: cover;
+    width: auto;
+    height: 500px;
+}
+@font-face{
+    src: url(../chaparral-pro/ChaparralPro-Regular.otf);
+    font-family: "Chaparral Pro";
+}
+#welcome{
+    text-align: center;
+    font-size: 75px;
+    font-family: "Chaparral Pro";
+    font-style: italic;
+    padding-top: 100px;
+    color: darkcyan;
+}
+body{
+    background: white;
+}
+#iamnot{
+    text-align: center;
+    font-family: "Chaparral Pro";
+    font-size: 35px;
+    font-style: normal;
+}
+.padding{
+    padding: 50px;
+}
+#lia{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    border: black solid 1px;
+}
+#hi{
+    font-size: 32px;
+    color: darkcyan;
+    font-family: "Chaparral Pro";
+    font-style: italic;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#sad{
+    font-size: 24px;
+    font-family: "Chaparral Pro";
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.aboutme, .profile{
+    text-align: center;
+}
+#about, #get{
+    font-size: 36px;
+    font-family: "Chaparral Pro";
+    font-weight: normal;
+    color: darkcyan;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+#sleep, #staying, #observant, #fangirl, #lets{
+    font-size: 24px;
+    font-family: "Chaparral Pro";
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+#eating, #aside, #imkinda, #ifyouever, #littlesad{
+    font-size: 22px;
+    font-family: "Chaparral Pro";
+    color: black;
+    padding: 15px;
+}
+#lezescape, #awaken, #absurdvant, #run, #touchmenot{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    border: white solid 1px;
+}
+#heart{
+    font-size: 30px;
+    text-align: center;
+    color: darkcyan;
+    padding: 50px 0;
+}
+.footer{
+    text-align: center;
+    padding:40px 0 ;
+    font-family: serif;
+    background: rgb(190, 215, 209)
+}
+#theend{
+    font-family: "Chaparral Pro";
+    font-size: 15px;
+}
